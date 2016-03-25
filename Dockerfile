@@ -28,7 +28,7 @@ EXPOSE 31100 31099
 # Hauppage extender (all UDP)
 EXPOSE 16867 16869 16881
 
-VOLUME [“/recordings”, “/media”, “/config”
+VOLUME [“/recordings”, “/media”, “/config”]
 
 
 
